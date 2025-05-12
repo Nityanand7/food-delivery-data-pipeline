@@ -141,6 +141,15 @@ You’ll transform raw location data into an SCD Type 2 dimension:
   streamlit run app.py
   ```
 
+
+## Snowsight dashboard
+
+![image](https://github.com/user-attachments/assets/b0c7bcce-3149-4be4-8397-d34d0ad045d5)
+
+![image](https://github.com/user-attachments/assets/05e62dfa-94bb-4dca-b38b-e6c42a4d6cdd)
+
+
+
 ---
 
 > Scripts are in the `scripts/` directory, and raw data is in the `data/` directory.
