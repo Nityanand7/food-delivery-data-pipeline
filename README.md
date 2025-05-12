@@ -144,14 +144,14 @@ You’ll transform raw location data into an SCD Type 2 dimension:
 
 ## Snowsight dashboard
 
-![image](https://github.com/user-attachments/assets/b0c7bcce-3149-4be4-8397-d34d0ad045d5)
+![image](https://github.com/user-attachments/assets/afb0dc7c-2d97-496c-a4e1-863b63f9d20c)
 
-![image](https://github.com/user-attachments/assets/05e62dfa-94bb-4dca-b38b-e6c42a4d6cdd)
-
+![image](https://github.com/user-attachments/assets/446efd86-1b85-43a1-bc63-2cc0a28316fe)
 
 
 ---
 
 > Scripts are in the `scripts/` directory, and raw data is in the `data/` directory.
+> Credits: Data Engineering Simplified
 
 
